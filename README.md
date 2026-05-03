@@ -1,4 +1,5 @@
 # Data Portfolio – Futun Al-Khaldi
+[LinkedIn](https://www.linkedin.com/in/futun-alkhaldi-384786199)
 
 Business Intelligence Analyst transitioning to Data Engineering.
 
